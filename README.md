@@ -42,6 +42,12 @@ To run this project, you will need to have Flutter installed on your machine. Fo
 
    flutter run
 
+Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
 
 
       
