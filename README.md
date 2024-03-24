@@ -2,6 +2,8 @@
 
 
 
+Flutter WhatsApp UI Clone
+This project is a clone of the WhatsApp user interface (UI) built using Flutter. 
 ## Features
 
 - Tab-based navigation system with tabs for camera, chats, status, and calls
